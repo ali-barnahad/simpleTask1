@@ -1,47 +1,3 @@
-/*===============================================
-Template Name: Constre - HTML5 Template
-Author:  https://themeforest.net/user/dreamit-solution
-Description: Description
-Version: 1.0.0
-Text Domain: Constre
-Tags: consulting, finance, corporate, business, consultant, multipurpose, technology, it-solution, software, agency, company, portfolio, bangking, insurance, digital-agency, digital-marketing.
-================================================*/
-
-/*TABLE OF CONTENTS*/
-/*=====================
-01. Constre Nav Menu Area Css 
-02. Constre Slider Area Css
-03. Constre Section Title Css
-04. Constre Service Area css
-05. Constre About Area Css
-06. Constre Counter Area Css
-07. Constre Case Study Area Css
-08. Constre Testimonial Area Css
-09. Constre Team Area Css
-10. Constre Faq Area Css
-12. Constre Brand Section Css
-13. Constre Call Do Section Css
-14. Constre Form Box Css
-15. Constre Blog Area Css
-16. Constre footer Area Css
-17. Constre Subscribe Area Css
-18. Constre Lines CSS
-19. Constre Prossess Ber Css
-20. Constre Scrollup Section
-21. Constre Bounce Animation Css 
-22. Constre Animation Dance
-23. Constre Breadcumb Area Css
-24. Constre abouts_areas Css
-25. Constre Feture-Area Css
-26. Constre Pricing Section Css
-27. Constre Web Development Section CSS
-28. Constre Contact  US Css
-29. Constre Blog Sidber Widget CSS
-30. Constre Case Study Details Css
-31. Constre Search Box Css
-32. Constre Loader Css
-=======================*/
-
 .header-top-section {
   background: #0a1028;
   padding: 10px 0 10px;
@@ -78,7 +34,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 /*================================
-<--  Constre Nav Menu Area Css -->
+<--  Maleki Nav Menu Area Css -->
 ==================================*/
 .Constre_nav_manu {
   background: #fff;
@@ -462,7 +418,7 @@ p.slider-text {
 
 /**
 ======================================================
-<--  Constre Section Title Css -->
+<--  Maleki Section Title Css -->
 ======================================================**/
 
 .section-title {
@@ -2524,7 +2480,7 @@ span.fill {
 
 /***
 ======================================================
-<--  Constre Testimonial Area Css -->
+<--  Maleki Testimonial Area Css -->
 ======================================================***/
 .testimonial-area {
   padding: 80px 0 80px;
@@ -2727,7 +2683,7 @@ span.testi-title {
 
 /***
 ======================================================
-<--  Constre Blog Area Css -->
+<--  Maleki Blog Area Css -->
 ======================================================***/
 
 .blog-area {
@@ -2848,7 +2804,7 @@ span.testi-title {
 }
 /***
 ======================================================
-<--  Constre Subscribe Area Css -->
+<--  Maleki Subscribe Area Css -->
 ======================================================***/
 .newsletter-area {
   background: #ff5e15;
@@ -2915,7 +2871,7 @@ span.testi-title {
 
 /**
 ======================================================
-<--  Constre Footer Area Css -->
+<--  Maleki Footer Area Css -->
 ======================================================**/
 .footer-area {
   padding: 0 0 120px;
@@ -3444,7 +3400,7 @@ ul.footer-info p {
 
 /**
 ======================================================
-<--  Constre Service Details Area Css -->
+<--  Maleki Service Details Area Css -->
 ======================================================**/
 .service-detials-area {
   padding: 120px 0 100px;
